@@ -1,0 +1,26 @@
+table,tr,td
+{
+  border-collapse: collapse;
+  border:1px solid black;
+  width:400px;
+}
+
+.mainmenu
+{
+  height:500px;
+  width:600px;
+  background-color: #E6E6E6;
+}
+
+.leftmenu
+{
+  height:500px;
+  width:150px;
+    background-color: #D8D8D8;
+}
+
+a
+{
+  display:block;
+  padding:5px;
+}
